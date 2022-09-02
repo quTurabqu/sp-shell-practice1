@@ -1,0 +1,223 @@
+1661711321397:add --a 4 --b 5
+1661711327909:exit
+1661711499724:help
+1661711515814:script
+1661711524438:script file
+1661711557974:subtract --a 5 --b 3
+1661711563079:clear
+1661711564869:exit
+1661711649157:history
+1661711657852:subtract --a 5 --b 3
+1661761542046:salam
+1661761554603:add -a 32
+1661761564543:add -a 32 -b 43
+1661761569884:add --a 32 --b 43
+1661762132895:add --3
+1661762209812:add --b 4
+1661762236052:help
+1661762467181:add --b
+1661762477301:add --b 4
+1661762484627:add --b 6
+1661762502530:add --b help
+1661762509830:add --b --help
+1661762517976:add --b 4 help
+1661762527665:add --b 6
+1661762717774:add --b 3
+1661762805400:add --b 32
+1661762869111:add --b 42
+1661764361586:help
+1661765097845:connect --key me
+1661765109868:help
+1661765181116:add --b 53
+1661765193966:stacktrace
+1661765390320:add --b 31
+1661765398894:stacktrace
+1661765408330:clear
+1661765413961:connect --key me
+1661765422279:add --b 31
+1661785075764:help
+1661785086382:version
+1661785105996:add --b 54
+1661785119251:connect  --key meeeeeeeeeee
+1661785125786:connect  --key me
+1661785129675:add --b 54
+1661785140574:disconnect --key me
+1661785400289:connect --key me
+1661785413050:disconnect --key me
+1661785453274:help --connect
+1661785459847:help connecct
+1661785464163:help connect
+1661785473447:help add
+1661788936341:confirm
+1661788944337:confirm --answer true
+1661788959212:confirm --answer false
+1661788987030:confirm
+1661789242445:str input
+1661789252694:str input --mask true
+1661789313113:str input
+1661790135020:path
+1661791398483:select single
+1661791417403:clear
+1661799231413:select multi
+1661804680311:select single
+1661806194888:ip
+1661806624209:exit
+1661806680034:ip
+1661807743050:exit
+1661807784869:ip
+1661807923262:dir
+1661807940540:dir --path C:\\\\Users\\\\Turab
+1661807947970:dir --path C:\\\\Users\\\\Turab\\\\Desktop\\\\utils
+1661807954037:dir --path C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path
+1661808008524:dir --path C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\vs-code
+1661808022267:dir ls
+1661808029794:dir dir
+1661808042605:dir cd../
+1661808045439:dir dir
+1661808068096:dir ls
+1661808080637:dir cd ../
+1661808090836:dir cd asdasd
+1661808100080:dir date
+1661833515987:path --path me
+1661833624514:dir me
+1661833646029:dir --path me
+1661833666514:p
+1661833712274:p --p me
+1661833722299:p --p cd
+1661833726773:p --p ls
+1661833776246:p --p mkdir hello
+1661833821228:p p C:\\Users\\Turab\\Desktop\\utils\\learn-path\\shell\\sp-shell-practice1
+1661833833201:p --p dir C:\\Users\\Turab\\Desktop\\utils\\learn-path\\shell\\sp-shell-practice1
+1661833850287:p --p dir
+1661833858064:p --p ls
+1661833959398:p --p
+1661833961834:p
+1661834088507:p --p cd C:\\\\
+1661834362895:p --p C:\\\\Users\\\\eleite\\\\Workspace\\\\RunCmd\\\\Petrel_Logs
+1661834368354:p --p dir
+1661834392718:p --p cd C:\\\\Users\\\\Turab
+1661834400329:p --p dir
+1661834414069:p --p cat
+1661834447124:p --p cat C:\\Users\\Turab\\Desktop\\utils\\learn-path\\shell\\sp-shell-practice1\\spring-shell.log
+1661834661473:p --p dir
+1661834670833:p --p ls
+1661834685892:p --p cd C:\\\\Users
+1661834694348:p --p cd ../
+1661834704345:p
+1661834726274:p --p java --version
+1661834744704:p --p java -version
+1661834761606:p --p java help
+1661834874762:p
+1661834879427:p --p dir
+1661834894781:p --p mkdir hello.log
+1661835235776:dir
+1661835237980:p
+1661835246176:p --p dir
+1661835258041:"/bin/sh", "-c", "cd /var; ls -l"
+1661835340946:p --p dir
+1661835346733:p --p cd
+1661835353876:p --p cd C:\\Users
+1661835358616:p --p cd C:\\\\Users
+1661835400051:p --p cmd.exe /c
+1661835407141:p --p dir
+1661835437392:p --p cmd.exe /c dir
+1661835448083:p --p cmd.exe /c cd C:\\Users
+1661835454438:p --p cmd.exe /c cd C:\\\\Users
+1661835459390:p --p dir
+1661835463785:p --p cmd.exe /c cd
+1661835987869:p --p dir
+1661836661149:p --p dir -d C:\\\\Users\\\\Turab
+1661836696847:p --p dir --d C:\\\\Users\\\\Turab
+1661836707136:p --p dir --d C:\\\\Users\\\\Turab\\\\Desktop
+1661836714460:p --p dir --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes
+1661836721555:p --p dir --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes\\\\manet.txt
+1661836729882:p --p cat --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes\\\\manet.txt
+1661836851936:p --p "manet.txt" --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes\\\\manet.txt
+1661836864326:p --p "manet.txt" --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes
+1661837035255:p --p java -version --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes
+1661837047222:p --p 'java -version' --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes
+1661837067671:p --p cd --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes
+1661837074318:p --p dir
+1661837105107:p --d C:\\\\Users\\\\Turab\\\\Desktop\\\\notes\\\\back-end
+1661837141018:p --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\back-end
+1661837150852:p --p dir --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\back-end
+1661837179962:p --p dir
+1661837354746:p --c mvn clean
+1661837471769:p --c mvn\\clean
+1661837480896:p --c mvn\\ clean
+1661837569293:p --c mvn\\ package
+1661837654822:p --c mvn\\ install
+1661838184833:p --c mvn\\ clean
+1661838223746:p --c dir --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path
+1661838302224:p --c dir --d C:\\Users\\Turab\\Desktop\\utils\\learn-path\\circuit-breaker\\feign-client-circuit-breaker\\feign-cl-server-side
+1661838331907:p --c dir --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838354682:p --c mvn/ clean --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838363535:p --c mvn\\ clean --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838375198:p --c mvn\\ install --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838447179:p --c mvn\\ clean --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838508297:p --c mvn\\ install\\ -DskipTests --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side
+1661838638052:p --c java\\ -jar\\  --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1661838692846:p --c java\\ -jar\\  C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1661839632398:p --c netstat\\ -ano\\ |\\ findstr\\ :8091
+1661839682692:p --c taskkill\\ /PID\\ 236
+1661839691034:p --c taskkill\\ /PID\\ 236 /F
+1661839702319:p --c taskkill\\ /PID\\ 236\\ /F
+1661839771213:p --p cd\\ C:\\\\Users\\\\Turab
+1661839780600:p --p
+1661839782689:p
+1661840111232:pid --port 8091
+1661840333792:jar --jarPath C:\\Users\\Turab\\Desktop\\utils\\learn-path\\circuit-breaker\\feign-client-circuit-breaker\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1661840366005:jar --jarPath C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1661840381632:jar --jarPath C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1661840458229:pid --port 8091
+1661840583776:kill --pid 20800
+1661840588866:kill --pid 20900
+1661843361868:pid --port 8091
+1661843367827:pid --port 8080
+1661843381936:pid --port 8085
+1661843564445:pid
+1661843572874:p
+1661843600291:ip
+1661843631000:stacktrace
+1661843651599:clear
+1661843654620:stacktrace
+1661843656028:clear
+1661843668101:stacktrace
+1661843671408:clear
+1661843679149:p --p dir
+1661843691317:p --c dir
+1661843693355:clear
+1661843696795:stacktrace
+1661843712502:p --c dir
+1661843720317:p --c mkdir hello
+1661843725464:p --c mkdir\\ hello
+1661843739256:p --c rm\\ hello
+1661843762644:p --c rmdir\\ hello
+1661843799753:p --c mkdir\\ hello//salam
+1661843804552:p --c mkdir\\ hello\\\\salam
+1661843824898:p --c rm\\ -r\\ hello
+1661843839213:p --c rmdir\\ -r\\ hello
+1661843854180:p --c rmdir hello
+1661843863258:p --c rmdir\\ hello
+1661843872579:p --c rmdir\\ hello\\\\salam
+1661843875863:p --c rmdir\\ hello
+1661843878716:clea
+1661843880354:clear
+1661843882305:exit
+1661893933578:p
+1661893988654:pid --port 8085
+1661894041129:p --c java\\ -jar\\  --d C:\\\\Users\\\\Turab\\\\Desktop\\\\utils\\\\learn-path\\\\circuit-breaker\\\\feign-client-circuit-breaker\\\\feign-cl-server-side\\\\target\\\\feign-cl-server-side-1.0.jar
+1662017763543:tasks get
+1662026135333:clear
+1662026189595:tasks create --n salam
+1662026533090:tasks get
+1662026621195:tasks create --n salam
+1662026627213:tasks get
+1662028853157:tasks create --n salam
+1662029540719:tasks create --n salam-2
+1662029543208:tasks create --n salam-3
+1662029546222:tasks create --n salam-4
+1662029548673:tasks get
+1662029579226:tasks create --n me
+1662029617401:tasks create --n make\\ a\\ meal
+1662029624510:exit
